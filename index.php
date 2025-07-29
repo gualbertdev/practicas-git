@@ -9,4 +9,4 @@ $tres = $dos;
 echo $$tres;
 // echo $uno;
 ?>
-<h1>hola</h1>
+<h1>explorando y revirtiendo</h1>
